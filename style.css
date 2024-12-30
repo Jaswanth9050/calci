@@ -7,12 +7,12 @@ body{
 
     background: linear-gradient(45deg,red,blue,green,yellow);
     background-image: url(./img/csk1.jpg);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover; 
     
 }
 .card{
-    
+
     margin-top: 150px;
     background-image: url(./img/csk.jpg);
     background-size: cover;
