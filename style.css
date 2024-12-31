@@ -13,7 +13,7 @@ body{
 }
 .card{
 
-    margin: 120px;
+    margin: 10px;
     background-image: url(./img/csk.jpg);
     background-size: cover;
 }
